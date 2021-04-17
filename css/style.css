@@ -1,0 +1,21 @@
+.slider1 .item {
+	min-height: 100px;
+	background-color: #ddd;
+	border: 5px solid blue;
+	padding: 50px;
+}
+.slider1 .item h4{
+	text-align: center;
+}
+.slider2{
+	padding-top: 50px;
+}
+.slider2 .item{
+	min-height: 100px;
+	background-color: #ddd;
+	border: 5px solid blue;
+	padding: 50px;
+}
+.slider2 .item h4{
+	text-align: center;
+}
